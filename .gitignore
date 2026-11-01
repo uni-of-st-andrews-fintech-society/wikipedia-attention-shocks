@@ -1,15 +1,26 @@
 # Licensed or raw data never goes in the public repo
 data/raw/
+data/processed/
 
 # API keys and secrets
 .env
 .env.*
+!.env.example
 
 # Python
 __pycache__/
 *.pyc
 .venv/
+venv/
 .ipynb_checkpoints/
+
+# LaTeX build files
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.bbl
+paper/*.blg
+paper/*.synctex.gz
 
 # OS
 .DS_Store
