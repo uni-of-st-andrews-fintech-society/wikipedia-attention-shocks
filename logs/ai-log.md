@@ -15,6 +15,7 @@ Template:
 - **What AI did:** Generated folder layout, log templates, .gitignore, README and starter requirements.txt
 - **What a human verified, and how:** (Lead to fill in after review)
 - **Who:** Erns
+- **Correction (2026-11-01):** Human verification for "Repo scaffold": Erns reviewed all scaffold files in PR #2 before merging.
 
 ## 2026-11-01 — Phase 0 setup
 - **Tool:** Claude Code
